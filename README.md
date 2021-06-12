@@ -19,8 +19,7 @@ d) PrintINORDER: Recursively Print the records sorted by the key.
 
 ![2](https://user-images.githubusercontent.com/68819501/121785655-74eb1200-cbd4-11eb-8e90-52713ecda5fd.PNG)
 
-e) Destructor
-f) Print a tree
+e) Print a tree
 
 ![3](https://user-images.githubusercontent.com/68819501/121785646-68ff5000-cbd4-11eb-9dc6-db0b789c798c.PNG)
 
